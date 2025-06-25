@@ -38,8 +38,6 @@ jupyter notebook code_supervised_learning_coursework_1.ipynb
 latexmk -pdf main.tex            
 ```
 
-```
-
 ## Marks Obtained
 
 *Grade*: 95 / 100
