@@ -39,12 +39,12 @@ jupyter lab
 latexmk -pdf main.tex            
 The generated main.pdf is ready for submission.
 
----
+```
 
 ## Mark Obtained
 
-Grade: 95 / 100
-
+*Grade*: 95 / 100
+```
 | Question | Score   | Comments                                                                                            |
 | -------- | ------- | --------------------------------------------------------------------------------------------------- |
 | Q1       | 5 / 5   |                                                                                                     |
@@ -67,5 +67,5 @@ Grade: 95 / 100
 | Q11gi    | 1 / 2   |                                                                                                     |
 | Q11gii   | 2 / 2   |                                                                                                     |
 | Q11giii  | 2 / 2   |                                                                                                     |
-
+```
 
