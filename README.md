@@ -41,7 +41,7 @@ The generated main.pdf is ready for submission.
 
 ```
 
-## Mark Obtained
+## Marks Obtained
 
 *Grade*: 95 / 100
 
