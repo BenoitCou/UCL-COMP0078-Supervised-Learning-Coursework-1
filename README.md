@@ -44,7 +44,7 @@ The generated main.pdf is ready for submission.
 ## Mark Obtained
 
 *Grade*: 95 / 100
-```
+
 | Question | Score   | Comments                                                                                            |
 | -------- | ------- | --------------------------------------------------------------------------------------------------- |
 | Q1       | 5 / 5   |                                                                                                     |
@@ -67,5 +67,5 @@ The generated main.pdf is ready for submission.
 | Q11gi    | 1 / 2   |                                                                                                     |
 | Q11gii   | 2 / 2   |                                                                                                     |
 | Q11giii  | 2 / 2   |                                                                                                     |
-```
+
 
