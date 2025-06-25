@@ -30,10 +30,12 @@ pip install -r requirements.txt
 
 # 4. Launch the notebook
 jupyter notebook code_supervised_learning_coursework_1.ipynb
+```
 
-
-# 5. Compiling the report
+# Compiling the report
+```
 latexmk -pdf main.tex            
+```
 
 ```
 
