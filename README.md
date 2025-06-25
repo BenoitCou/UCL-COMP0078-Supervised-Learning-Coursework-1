@@ -33,7 +33,8 @@ jupyter notebook code_supervised_learning_coursework_1.ipynb
 ```
 
 # Compiling the report
-```
+
+```bash
 latexmk -pdf main.tex            
 ```
 
