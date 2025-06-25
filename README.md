@@ -22,22 +22,18 @@ It includes:
 git clone https://github.com/BenoitCou/UCL-COMP0078-Supervised-Learning-Coursework-1
 cd UCL-COMP0078-Supervised-Learning-Coursework-1
 
-# 2. Create & activate a virtual environment  (optional but recommended)
+# 2. Create & activate a virtual environment
 python -m venv .venv
-source .venv/bin/activate           # Windows: .venv\Scripts\activate
 
 # 3. Install Python dependencies
 pip install -r requirements.txt
 
 # 4. Launch the notebook
 jupyter notebook code_supervised_learning_coursework_1.ipynb
-# or (modern UI):
-jupyter lab
 
 
 # 5. Compiling the report
 latexmk -pdf main.tex            
-The generated main.pdf is ready for submission.
 
 ```
 
