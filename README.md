@@ -26,17 +26,46 @@ cd UCL-COMP0078-Supervised-Learning-Coursework-1
 python -m venv .venv
 source .venv/bin/activate           # Windows: .venv\Scripts\activate
 
-# Install Python dependencies
+# 3. Install Python dependencies
 pip install -r requirements.txt
 
-# Launch the notebook
+# 4. Launch the notebook
 jupyter notebook code_supervised_learning_coursework_1.ipynb
 # or (modern UI):
 jupyter lab
 
 
-##Compiling the report
-A full LaTeX distribution is required (TeX Live 2023+, MiKTeX, or Mac TeX).
-
+# 5. Compiling the report
 latexmk -pdf main.tex            
 The generated main.pdf is ready for submission.
+
+---
+
+## Mark Obtained
+
+Grade: 95 / 100
+
+| Question | Score   | Comments                                                                                            |
+| -------- | ------- | --------------------------------------------------------------------------------------------------- |
+| Q1       | 5 / 5   |                                                                                                     |
+| Q2       | 10 / 10 |                                                                                                     |
+| Q3       | 5 / 5   |                                                                                                     |
+| Q4       | 10 / 10 |                                                                                                     |
+| Q5       | 20 / 20 |                                                                                                     |
+| Q6       | 5 / 5   |                                                                                                     |
+| Q7       | 7 / 7   |                                                                                                     |
+| Q8       | 6 / 8   | Incorrect explanation; should explicitly describe how point density in an ε-neighbourhood changes.  |
+| Q9a      | 2 / 3   | Condition must hold for all x and z, hence c ≥ 0.                                                   |
+| Q9b      | 0 / 2   | c acts as a bias but not a regulariser; c > 0 does not impact the solution.                         |
+| Q10      | 3 / 10  | Your condition holds for small β, which is incorrect; the correct condition holds only for large β. |
+| Q11a     | 1 / 1   |                                                                                                     |
+| Q11b     | 1 / 1   |                                                                                                     |
+| Q11c     | 2 / 2   |                                                                                                     |
+| Q11d     | 2 / 2   |                                                                                                     |
+| Q11e     | 2 / 2   |                                                                                                     |
+| Q11f     | 2 / 2   |                                                                                                     |
+| Q11gi    | 1 / 2   |                                                                                                     |
+| Q11gii   | 2 / 2   |                                                                                                     |
+| Q11giii  | 2 / 2   |                                                                                                     |
+
+
