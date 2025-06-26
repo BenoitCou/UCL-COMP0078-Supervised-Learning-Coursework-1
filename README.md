@@ -54,7 +54,7 @@ latexmk -pdf main.tex
 | Q8       | 6 / 8   | Incorrect explanation; should explicitly describe how point density in an ε-neighbourhood changes.  |
 | Q9a      | 2 / 3   | Condition must hold for all x and z, hence c ≥ 0.                                                   |
 | Q9b      | 0 / 2   | c acts as a bias but not a regulariser; c > 0 does not impact the solution.                         |
-| Q10      | 3 / 10  | Your condition holds for small β, which is incorrect; the correct condition holds only for large β. |
+| Q10      | 10 / 10 |                                                                                                     |
 | Q11a     | 1 / 1   |                                                                                                     |
 | Q11b     | 1 / 1   |                                                                                                     |
 | Q11c     | 2 / 2   |                                                                                                     |
