@@ -69,7 +69,7 @@ latexmk -pdf main.tex
 
 ## Part III – Theory & Proofs (30 %)
 
-- **Positive‑definite kernel modification** — conditions on c for $$K_c(x,z) = c + \sigma x_i z_i$$  .
+- **Positive‑definite kernel modification** — conditions on c for $$K_c(x,z) = c + \sum x_i z_i$$  .
 
 - **Gaussian kernel vs 1‑NN** — shows how choosing β→∞ lets kernel ridge regression emulate 1‑NN.
 
