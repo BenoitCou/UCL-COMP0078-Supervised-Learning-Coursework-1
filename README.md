@@ -67,7 +67,7 @@ latexmk -pdf main.tex
 
 - Commentary on the bias–variance trade‑off observed in both experiments.
 
-## Part III – Theory & Proofs (30 %)
+**Part III – Theory & Proofs (30 %)**
 
 - **Positive‑definite kernel modification** — conditions on c for $$K_c(x,z) = c + \sum x_i z_i$$  .
 
