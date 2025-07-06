@@ -11,7 +11,7 @@ It includes:
 | `images/`           | Auxiliary figures referenced by `main.tex`. |
 | `code_supervised_learning_coursework_1.ipynb` | Jupyter notebook implementing every experiment required in the coursework (polynomial fits, bias/variance exploration, Kernel Ridge Regression, k-NN, etc.). |
 | `boston_filtered.csv` | Pre-filtered Boston Housing dataset used in Part 1 & 3. |
-| `Coursework1_Task.pdf` | The questions of the coursework  |
+| `Coursework1_Task.pdf` | Questions of the coursework.  |
 
 
 ---
