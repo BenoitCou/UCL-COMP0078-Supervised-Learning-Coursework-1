@@ -7,7 +7,7 @@ It includes:
 | Path | Description |
 |------|-------------|
 | `main.tex`          | LaTeX source of the written report (compiled PDF shows all answers, figures and tables). |
-| `Coursework_1_Report.pdf` | PDF version fo the written report. |
+| `Coursework_1_Report.pdf` | PDF version of the written report. |
 | `images/`           | Auxiliary figures referenced by `main.tex`. |
 | `code_supervised_learning_coursework_1.ipynb` | Jupyter notebook implementing every experiment required in the coursework (polynomial fits, bias/variance exploration, Kernel Ridge Regression, k-NN, etc.). |
 | `boston_filtered.csv` | Pre-filtered Boston Housing dataset used in Part 1 & 3. |
